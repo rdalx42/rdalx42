@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Love2d framwork**
 
-- ⚡ Fun fact **I have no life**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
