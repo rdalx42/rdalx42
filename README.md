@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WoodCraft](https://github.com/rdalx42/WoodCraft)
 
-- 🌱 I’m currently learning **Love2d, TS, CPP**
+- 🌱 I’m currently learning **Love2d framwork**
 
 - ⚡ Fun fact **I have no life**
 
