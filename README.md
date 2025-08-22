@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm rd</h1>
 <h3 align="center">Dev which works on games/websites and another silly projects</h3>
 
-- 🔭 I’m currently working on [WoodCraft](https://github.com/rdalx42/WoodCraft)
-
-- 🌱 I’m currently learning **Love2d framwork**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
