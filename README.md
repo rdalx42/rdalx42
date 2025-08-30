@@ -1,5 +1,5 @@
 <h1 align="center">rdalx42</h1>
-<h3 align="center">Working on games/websites/Interpreters and another silly projects</h3>
+<h3 align="center">Working on games/websites/Interpreters and other silly projects</h3>
 
 
 
