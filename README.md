@@ -48,3 +48,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdalx42&show_icons=true&locale=en&layout=compact" alt="rdalx42" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdalx42&" alt="rdalx42" /></p>
+
+# Currently working on...
+![repo card](https://github-readme-stats.vercel.app/api/pin/?username=rdalx42&repo=RedditReelMaker&bg_color=45,092147,07455c&theme=algolia)
