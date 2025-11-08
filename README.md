@@ -52,5 +52,5 @@
 
 # Currently working on...
 
-![repo card](https://github-readme-stats.vercel.app/api/pin/?username=rdalx42&repo=BytecodeCompiler&bg_color=45,092147,07455c&theme=algolia)
+![repo card](https://github-readme-stats.vercel.app/api/pin/?username=rdalx42&repo=VexaLang&bg_color=45,092147,07455c&theme=algolia)
 ![repo card](https://github-readme-stats.vercel.app/api/pin/?username=rdalx42&repo=RedditReelMaker&bg_color=45,092147,07455c&theme=algolia)
