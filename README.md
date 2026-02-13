@@ -40,7 +40,9 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "python" width = "40" height = "40"/> 
   </a>
-  
+  <a href = "https://www.java.com/en/" target = "_blank" rel = "noreferrer">
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1b20c04b-6c48-40a9-9d3f-6d4333fa2884" />
+  </a>
 </p>
 
 
