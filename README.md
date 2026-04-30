@@ -53,6 +53,4 @@
 
 
 # Currently working on...
-
-![repo card](https://github-readme-stats.vercel.app/api/pin/?username=rdalx42&repo=rFortran&bg_color=45,092147,07455c&theme=algolia)
-
+<h2>Infomatrix</h2>
