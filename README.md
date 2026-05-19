@@ -31,7 +31,7 @@
 </a><a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
 <img src="https://github.com/user-attachments/assets/1b20c04b-6c48-40a9-9d3f-6d4333fa2884" alt="java" width="40" height="40" style="margin-right:8px;"/>
 </a>
-  </a><a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+  </a><a href="https://svelte.dev/" target="_blank" rel="noreferrer">
 <img src="https://github.com/user-attachments/assets/c9a74b16-2615-4202-98db-6babd790a0c9" alt="svelte" width="40" height="40" style="margin-right:8px;"/>
 </a>
 </p>
